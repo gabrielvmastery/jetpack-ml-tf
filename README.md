@@ -7,8 +7,9 @@ Use this jetpack to jump start your vnet in Azure to configure your sandbox dev 
 
 2.  Create a VM in Azure (vcpu x 2, 8 mb ram)
 
-3a.  Install Docker (Ubuntu dependencies):
-3b.  Install Docker Engine: 
+3a.  Install Docker (Ubuntu dependencies)
+
+3b.  Install Docker Engine
 
 4.  Install Prometheus
 
