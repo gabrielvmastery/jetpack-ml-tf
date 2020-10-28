@@ -5,12 +5,4 @@ Use this jetpack to jump start your vnet in Azure to configure your sandbox dev 
 ## Please refer to answers.txt and tf_quick_ref.txt for more details on each step
 1.  Ensure Azure Cloud CLI is setup in your Azure cloud console
 
-2.  Create a VM in Azure (vcpu x 2, 8 mb ram)
-
-3a.  Install Docker (Ubuntu dependencies)
-
-3b.  Install Docker Engine
-
-4.  Install Prometheus
-
-5.  Create simple infrastructures with Azure Cloud CLI using terraform 
+2.  Create simple infrastructures with Azure Cloud CLI using terraform 
